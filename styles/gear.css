@@ -75,6 +75,7 @@ nav h3{
     background-color: #E02C6D;
     border: none;
     border-radius: 41px;
+    cursor: pointer;
 }
 
 .banner-image{
@@ -160,6 +161,7 @@ nav h3{
     color: #E02C6D;
     font-weight: bold;
     margin-top: 50px;
+    cursor: pointer;
 }
 
 /* featured products style */
@@ -195,6 +197,7 @@ nav h3{
     background-color: #E02C6D;
     border: none;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* footer part style */
